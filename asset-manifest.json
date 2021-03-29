@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.792e228d.chunk.css",
-    "main.js": "/Portfolio/static/js/main.42fab90d.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.42fab90d.chunk.js.map",
-    "runtime-main.js": "/Portfolio/static/js/runtime-main.65bb930e.js",
-    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.65bb930e.js.map",
-    "static/js/2.75c486b5.chunk.js": "/Portfolio/static/js/2.75c486b5.chunk.js",
-    "static/js/2.75c486b5.chunk.js.map": "/Portfolio/static/js/2.75c486b5.chunk.js.map",
-    "index.html": "/Portfolio/index.html",
-    "precache-manifest.c390ac64903d53a225123c5b2c272e52.js": "/Portfolio/precache-manifest.c390ac64903d53a225123c5b2c272e52.js",
-    "service-worker.js": "/Portfolio/service-worker.js",
-    "static/css/main.792e228d.chunk.css.map": "/Portfolio/static/css/main.792e228d.chunk.css.map",
-    "static/js/2.75c486b5.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.75c486b5.chunk.js.LICENSE.txt",
-    "static/media/sad-icon.png": "/Portfolio/static/media/sad-icon.b88924d5.png",
-    "static/media/your photo.png": "/Portfolio/static/media/your photo.b9d7d448.png"
+    "main.css": "/ReactFolio/static/css/main.792e228d.chunk.css",
+    "main.js": "/ReactFolio/static/js/main.42fab90d.chunk.js",
+    "main.js.map": "/ReactFolio/static/js/main.42fab90d.chunk.js.map",
+    "runtime-main.js": "/ReactFolio/static/js/runtime-main.20217e57.js",
+    "runtime-main.js.map": "/ReactFolio/static/js/runtime-main.20217e57.js.map",
+    "static/js/2.75c486b5.chunk.js": "/ReactFolio/static/js/2.75c486b5.chunk.js",
+    "static/js/2.75c486b5.chunk.js.map": "/ReactFolio/static/js/2.75c486b5.chunk.js.map",
+    "index.html": "/ReactFolio/index.html",
+    "precache-manifest.4c07a02712ccae2964693a1ead3bdb2b.js": "/ReactFolio/precache-manifest.4c07a02712ccae2964693a1ead3bdb2b.js",
+    "service-worker.js": "/ReactFolio/service-worker.js",
+    "static/css/main.792e228d.chunk.css.map": "/ReactFolio/static/css/main.792e228d.chunk.css.map",
+    "static/js/2.75c486b5.chunk.js.LICENSE.txt": "/ReactFolio/static/js/2.75c486b5.chunk.js.LICENSE.txt",
+    "static/media/sad-icon.png": "/ReactFolio/static/media/sad-icon.b88924d5.png",
+    "static/media/your photo.png": "/ReactFolio/static/media/your photo.b9d7d448.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.65bb930e.js",
+    "static/js/runtime-main.20217e57.js",
     "static/js/2.75c486b5.chunk.js",
     "static/css/main.792e228d.chunk.css",
     "static/js/main.42fab90d.chunk.js"
